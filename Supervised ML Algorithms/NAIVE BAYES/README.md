@@ -4,4 +4,4 @@
 
 
 
-     <img width="888" alt="NB2" src="https://user-images.githubusercontent.com/100204062/211893696-376747c3-b62a-415d-9673-3309e024d8ea.png">
+<img width="888" alt="NB2" src="https://user-images.githubusercontent.com/100204062/211893696-376747c3-b62a-415d-9673-3309e024d8ea.png">
