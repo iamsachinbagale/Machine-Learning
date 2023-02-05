@@ -16,4 +16,4 @@ Procedure to execute the above task is as follows:
             2. Bar plot of top 15 Important Features.
 
 
-Objective: • To classify given reviews (positive (Rating of 4 or 5) &amp; negative (rating of 1 or 2)) using Logistic regression algorithm.
+# : • To classify given reviews (positive (Rating of 4 or 5) &amp; negative (rating of 1 or 2)) using Logistic regression algorithm.
