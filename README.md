@@ -26,5 +26,10 @@
       - [K - Nearest Neighbours](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/K%20-%20NN) 
       - [Naive Bayes](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/NAIVE%20BAYES)
       - [Logistic Regression](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/LOGISTIC%20REGRESSION)
+      - [Linear Regression](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/LINEAR%20REGRESSION)
+      - [Decision Trees](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/DECISION%20TREES)
+      - [Ensemble Methods](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/Ensemble%20Methods)
+      - [SVM](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Supervised%20ML%20Algorithms/SVM)
+
    4. [Unsupervised ML Algorithms](https://github.com/iamsachinbagale/Machine-Learning/tree/main/Unsupervised%20ML%20Algorithms)  
 </details>
